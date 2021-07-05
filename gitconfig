@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = davidgeorgette974@gmail.com
+	name = david georgette
